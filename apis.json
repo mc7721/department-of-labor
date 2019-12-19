@@ -1,0 +1,45 @@
+{
+    "name": "Department of Labor",
+    "description": "<p>The United States Department of Labor (DOL) is a cabinet-level department of the U.S. federal government responsible for occupational safety, wage and hour standards, unemployment insurance benefits, re-employment services, and some economic statistics; many U.S. states also have such departments. The department is headed by the U.S. Secretary of Labor.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/DOL_Seal_with_Hammer.png",
+    "tags": [
+        "api provider",
+        "data json",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/department-of-labor\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Department of Labor",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/DOL_Seal_with_Hammer.png",
+            "humanURL": "http:\/\/dol.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/department-of-labor-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/developer.dol.gov\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/dol.gov"
+        },
+        {
+            "type": "Wikipedia",
+            "url": "http:\/\/en.wikipedia.org\/wiki\/United_States_Department_of_Labor"
+        }
+    ]
+}
